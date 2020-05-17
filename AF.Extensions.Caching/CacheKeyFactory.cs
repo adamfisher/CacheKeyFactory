@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Net.WebSockets;
 using System.Security.Authentication;
 using System.Security.Cryptography;
 using System.Text;
