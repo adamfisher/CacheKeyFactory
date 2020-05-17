@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Description>A CacheFactory that lets you creates unique cache keys based on input values.</Description>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>Adam Fisher</Authors>
+    <Product>AF.Extensions.Caching.CacheKeyFactory</Product>
+    <Company />
+    <PackageLicenseFile>LICENSE</PackageLicenseFile>
+    <PackageProjectUrl>https://github.com/adamfisher/CacheKeyFactory</PackageProjectUrl>
+    <PackageId>AF.Extensions.Caching</PackageId>
+    <PackageIconUrl>https://raw.githubusercontent.com/adamfisher/CacheKeyFactory/master/icon.png</PackageIconUrl>
+    <RepositoryUrl>https://github.com/adamfisher/CacheKeyFactory</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>cache, idistributedcache, cache key, caching</PackageTags>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\LICENSE">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>

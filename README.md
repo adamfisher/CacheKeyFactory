@@ -1,5 +1,7 @@
 # CacheKeyFactory
-Create unique keys for use with any caching system. 🔑🔑🔑
+[![](https://raw.githubusercontent.com/pixel-cookers/built-with-badges/master/nuget/nuget-long.png)](https://www.nuget.org/packages/AF.Extensions.Caching)
+
+Create unique keys for use with any caching system. :key::key::key:
 
 ## Usage
 
